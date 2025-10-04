@@ -6,4 +6,5 @@
     <string name="Agregar">Agregar</string>
     <string name="ListaContactos">Listar Contactos</string>
     <string name="ComboBoxContactos">Combo Contactos</string>
+    <string name="Correo">Correo</string>
 </resources>
