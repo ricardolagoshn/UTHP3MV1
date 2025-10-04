@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">UTHP3MV1</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="nombres">Nombres</string>
+    <string name="edad">Edad</string>
+    <string name="Agregar">Agregar</string>
+    <string name="ListaContactos">Listar Contactos</string>
+    <string name="ComboBoxContactos">Combo Contactos</string>
 </resources>
